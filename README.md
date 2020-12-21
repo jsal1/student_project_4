@@ -1,2 +1,5 @@
 # students_project_4
-tcp, ftp, udp
+
+Студенческая работа по сетям ЭВМ.
+
+Проторолы - TCP, FTP, UDP
